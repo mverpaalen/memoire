@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Base de connaissances — Mémoire</title>
+<link rel="stylesheet" href="/style.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
+</head>
+<body>
+<div id="app">
+  <nav id="sidebar">
+    <div class="sidebar-header">
+      <span class="dot"></span>
+      <span>Mémoire</span>
+    </div>
+    <div id="categories"></div>
+    <div class="sidebar-footer">
+      <button id="gitBtn" title="Commit &amp; push vers git">⇪ Commit &amp; push</button>
+      <div id="gitStatus"></div>
+    </div>
+  </nav>
+  <main id="content">
+    <div id="empty" class="empty-state">
+      <h1>Base de connaissances</h1>
+      <p>Sélectionne une fiche dans le menu à gauche pour l'ouvrir. Les liens <code>[[entre crochets]]</code> à l'intérieur des fiches sont cliquables et te déplacent d'une fiche à l'autre — comme dans Notion.</p>
+    </div>
+    <div id="note" class="note-view" hidden>
+      <div class="note-toolbar">
+        <span id="noteCat" class="note-cat"></span>
+        <div class="spacer"></div>
+        <button id="editToggle">Éditer</button>
+        <button id="saveBtn" hidden>Enregistrer</button>
+        <span id="saveStatus"></span>
+      </div>
+      <div id="preview" class="note-preview"></div>
+      <textarea id="editor" hidden spellcheck="false"></textarea>
+    </div>
+  </main>
+</div>
+<script src="/app.js"></script>
+</body>
+</html>
