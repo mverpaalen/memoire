@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Base de connaissances — Mémoire</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
+</head>
+<body>
+
+<div id="login" class="login-screen">
+  <div class="login-box">
+    <div class="login-title"><span class="dot"></span> Base de connaissances</div>
+    <p>Connecte-toi avec un token GitHub pour lire et modifier le dépôt. Le token n'est jamais envoyé ailleurs qu'à <code>api.github.com</code>, ni stocké dans le code de cette page — seulement dans ton navigateur, pour cette session.</p>
+    <label>Dépôt (owner/repo)
+      <input id="repoInput" type="text" value="mverpaalen/memoire" />
+    </label>
+    <label>Token d'accès personnel GitHub
+      <input id="tokenInput" type="password" placeholder="github_pat_..." />
+    </label>
+    <button id="loginBtn">Se connecter</button>
+    <p class="login-hint">Fine-grained token, permission "Contents: Read and write", limité à ce dépôt. GitHub → Settings → Developer settings → Fine-grained tokens.</p>
+    <div id="loginError" class="login-error"></div>
+  </div>
+</div>
+
+<div id="app" hidden>
+  <nav id="sidebar">
+    <div class="sidebar-header">
+      <span class="dot"></span>
+      <span id="repoLabel">Mémoire</span>
+    </div>
+    <div id="categories"></div>
+    <div class="sidebar-footer">
+      <div id="syncStatus" class="sync-status"></div>
+      <button id="logoutBtn">Se déconnecter</button>
+    </div>
+  </nav>
+  <main id="content">
+    <div id="empty" class="empty-state">
+      <h1>Base de connaissances</h1>
+      <p>Sélectionne une fiche dans le menu à gauche pour l'ouvrir. Les liens <code>[[entre crochets]]</code> à l'intérieur des fiches sont cliquables et te déplacent d'une fiche à l'autre — comme dans Notion. Chaque enregistrement crée directement un commit sur GitHub.</p>
+    </div>
+    <div id="note" class="note-view" hidden>
+      <div class="note-toolbar">
+        <span id="noteCat" class="note-cat"></span>
+        <div class="spacer"></div>
+        <button id="editToggle">Éditer</button>
+        <button id="saveBtn" hidden>Enregistrer</button>
+        <span id="saveStatus"></span>
+      </div>
+      <div id="preview" class="note-preview"></div>
+      <textarea id="editor" hidden spellcheck="false"></textarea>
+    </div>
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
