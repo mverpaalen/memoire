@@ -1,0 +1,11 @@
+# le design digital comme famille la plus dynamique du design contemporain
+
+*Catégorie : Idées, thèses & arguments*
+
+**Références & concepts:** Design Economy (design council report) (../R%C3%A9f%C3%A9rences%20&%20concepts/Design%20Economy%20(design%20council%20report)%2035e3c0279d5a809a8495d0a5751d6edb.md)
+
+---
+
+Les données disponibles indiquent que le design digital (incluant UX, interface, web, apps, jeu vidéo, etc.) est devenu, en moins de deux décennies, la composante la plus dynamique et l’une des plus importantes de l’écosystème du design à l’échelle internationale. Au Royaume‑Uni, le programme « Design Economy » du Design Council montre que la design economy emploie environ 1,97 million de personnes en 2020 (soit un actif sur vingt), et que les métiers du digital design constituent le segment en plus forte croissance au sein de cet ensemble. Entre 2010 et 2019, les emplois du digital design (rôles d’UX, développement de sites, design d’applications, création de jeux vidéo et autres formes de production numérique) ont augmenté de 138 %, soit trois fois plus vite que le reste du secteur numérique britannique et plus rapidement que l’économie du design elle‑même.
+
+Cette tendance est cohérente avec les chiffres américains, où la catégorie « web developers and digital designers » recensée par le Bureau of Labor Statistics représente plus de 200 000 emplois, avec une croissance projetée nettement supérieure à la moyenne des autres professions, tandis que les métiers de graphic designer « traditionnels » apparaissent plus stables ou en léger recul. Autrement dit, si l’on ne dispose pas encore de séries statistiques parfaites par « familles » (artefacts, espace, communication, interactions numériques), les données convergent pour montrer que c’est dans la famille du design digital que se concentrent aujourd’hui la plus forte création d’emplois, la plus grande dynamique économique et les transformations les plus rapides des pratiques, au point d’en faire la famille structurante de la design economy contemporaine.
