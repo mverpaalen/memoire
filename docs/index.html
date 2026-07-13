@@ -9,23 +9,7 @@
 </head>
 <body>
 
-<div id="login" class="login-screen">
-  <div class="login-box">
-    <div class="login-title"><span class="dot"></span> Base de connaissances</div>
-    <p>Connecte-toi avec un token GitHub pour lire et modifier le dépôt. Le token n'est jamais envoyé ailleurs qu'à <code>api.github.com</code>, ni stocké dans le code de cette page — seulement dans ton navigateur, pour cette session.</p>
-    <label>Dépôt (owner/repo)
-      <input id="repoInput" type="text" value="mverpaalen/memoire" />
-    </label>
-    <label>Token d'accès personnel GitHub
-      <input id="tokenInput" type="password" placeholder="github_pat_..." />
-    </label>
-    <button id="loginBtn">Se connecter</button>
-    <p class="login-hint">Fine-grained token, permission "Contents: Read and write", limité à ce dépôt. GitHub → Settings → Developer settings → Fine-grained tokens.</p>
-    <div id="loginError" class="login-error"></div>
-  </div>
-</div>
-
-<div id="app" hidden>
+<div id="app">
   <nav id="sidebar">
     <div class="sidebar-header">
       <span class="dot"></span>
@@ -34,13 +18,13 @@
     <div id="categories"></div>
     <div class="sidebar-footer">
       <div id="syncStatus" class="sync-status"></div>
-      <button id="logoutBtn">Se déconnecter</button>
+      <button id="authBtn">Se connecter pour éditer</button>
     </div>
   </nav>
   <main id="content">
     <div id="empty" class="empty-state">
       <h1>Base de connaissances</h1>
-      <p>Sélectionne une fiche dans le menu à gauche pour l'ouvrir. Les liens <code>[[entre crochets]]</code> à l'intérieur des fiches sont cliquables et te déplacent d'une fiche à l'autre — comme dans Notion. Chaque enregistrement crée directement un commit sur GitHub.</p>
+      <p>Sélectionne une fiche dans le menu à gauche pour l'ouvrir. Les liens <code>[[entre crochets]]</code> à l'intérieur des fiches sont cliquables et te déplacent d'une fiche à l'autre — comme dans Notion. La lecture est libre pour tout le monde ; connecte-toi avec un token GitHub uniquement si tu veux modifier une fiche.</p>
     </div>
     <div id="note" class="note-view" hidden>
       <div class="note-toolbar">
@@ -54,6 +38,20 @@
       <textarea id="editor" hidden spellcheck="false"></textarea>
     </div>
   </main>
+</div>
+
+<div id="authModal" class="modal-overlay" hidden>
+  <div class="login-box">
+    <div class="login-title"><span class="dot"></span> Se connecter</div>
+    <p>Un token GitHub est nécessaire uniquement pour modifier ou créer des fiches. La lecture reste libre pour tout le monde. Le token n'est jamais envoyé ailleurs qu'à <code>api.github.com</code>, ni stocké dans le code de cette page — seulement dans ton navigateur, pour cette session.</p>
+    <label>Token d'accès personnel GitHub
+      <input id="tokenInput" type="password" placeholder="github_pat_..." autocomplete="off" />
+    </label>
+    <button id="loginBtn">Se connecter</button>
+    <button id="cancelAuthBtn" class="secondary-btn">Annuler</button>
+    <p class="login-hint">Fine-grained token, permission "Contents: Read and write", limité à ce dépôt. GitHub → Settings → Developer settings → Fine-grained tokens.</p>
+    <div id="loginError" class="login-error"></div>
+  </div>
 </div>
 
 <script src="app.js"></script>
