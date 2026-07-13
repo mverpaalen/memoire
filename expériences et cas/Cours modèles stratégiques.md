@@ -26,6 +26,14 @@ Format de chaque séance : l'intervenant·e fait un cours complet sur le modèle
 
 À la toute fin du cours, un contrôle sous forme de QCM (questions à choix multiples) vérifie la compréhension des six modèles et donne lieu à une note.
 
+### Intervenants
+
+- **Marine Belluet** — Responsable pédagogique du Care Design Lab à L'École de design Nantes Atlantique, designeuse de services spécialisée dans le design des politiques publiques. Pilote notamment le cycle master Care Design (santé, solidarité, action publique) et plusieurs programmes de recherche liés au vieillissement et à l'innovation sociale.
+- **Olivier Worgague** — Consultant à L'École de design Nantes Atlantique, en charge du programme Shape My Wave et membre de l'équipe Atlantic Youth Creative Hub (City Design Lab). Entrepreneur par ailleurs dans les domaines du low-tech, de la mobilité à vélo et de la cuisine propre.
+- **Flora Brochier** — Designeuse UX et service designer freelance, spécialisée en design responsable et en éthique du numérique (membre de l'association Designers éthiques, doctorante sur l'évaluation des dark patterns au laboratoire Costech de l'UTC de Compiègne). Enseigne le design UX à L'École de design Nantes Atlantique et encadre des projets de thèse en M1/M2 media lab.
+- **Jean-Luc Barassard** — Expert en design durable à L'École de design Nantes Atlantique, où il sensibilise étudiants et équipe pédagogique à la réduction des impacts et à la régénération de la biodiversité ; également directeur de la stratégie entreprises de l'école. Ingénieur mécanique et design industriel de formation (UTC Compiègne).
+- **Martijn Verpaalen** — voir profil de l'auteur du mémoire.
+
 ### Leçon pour le mémoire
 
 *(à compléter)*
