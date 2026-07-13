@@ -51,7 +51,7 @@ Vue chronologique du plan. Chaque section liste ses expériences & cas et réfé
 
 #### [[plan/3.1.3 Mon rôle de structurant|3.1.3 Mon rôle de structurant]]
 - Expériences : [[Office hours]], [[Kanban]]
-- Références : [[The Servant Leadership]]
+- Références : [[Servant Leadership|The Servant Leadership]]
 
 ### [[plan/3.2 Une Mission Commune|3.2 Une Mission Commune]]
 
