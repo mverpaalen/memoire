@@ -2,6 +2,31 @@
 
 *Catégorie : Expériences & cas*
 
-**Rédigé:** No
+**Type de cas:** Dispositif pédagogique
+**Periode:** 5 séances de 4h, étudiants de 3ème année UX/UI Design (spécialité Interfaces) — module lié au prototypage mobile
+**Rôle(s):** Concepteur du cours (cours donné par Martin Lebreton)
+**Rédigé:** Yes
 
-*(pas de contenu rédigé)*
+---
+
+### Ce qui a été fait (descriptif factuelle)
+
+Conception d'un cours intitulé Iteration Games, imaginé par mes soins à partir d'une idée insufflée par Robin Marzin, et donné par Martin Lebreton à des étudiants de troisième année UX/UI Design, spécialité Interfaces. Le cours se déroule sur 5 séances de 4h, adossées au module de prototypage mobile, et suit un principe simple : les étudiants réalisent une application mobile sur Figma, mais découvrent une nouvelle contrainte à chaque séance, sous forme de mini-sprint.
+
+Chaque séance suit le même protocole : une page Figma dédiée est créée, les écrans sont exportés et placés dans le fichier, le fichier est exporté en fin de séance sur Néocampus, et un nouveau brief, avec une nouvelle contrainte, est donné pour la séance suivante. Le déroulé progresse ainsi : au premier cours, les étudiants ont 3h pour réaliser un MVP d'une application de comptage de pas (nom, icône, proposition de valeur, 4 écrans minimum — tableau de bord, détail d'une activité, historique, profil utilisateur), avec un prototype cliquable. Au deuxième cours, bascule décisive : chaque étudiant doit donner son fichier à un·e autre étudiant·e et en récupérer un autre, avec une passation de 5 minutes dans chaque sens pour transmettre les informations utiles, puis une critique constructive du travail reçu avant de commencer le sprint du jour — la nouvelle contrainte porte alors sur la dimension sociale et communautaire de l'application. Au troisième cours, nouvelle passation puis nouvelle contrainte : gamifier l'usage de l'application (objectif à atteindre, régularité à maintenir, défi à partager). Au quatrième cours, passation, puis double contrainte : poser les bases d'un design system (couleurs, typographie, espacements, composants) et/ou concevoir l'onboarding de l'application, avec en parallèle un protocole de test à construire et à mener auprès de 3 à 5 personnes dans la semaine, restitué sous forme problème/solution. Au cinquième et dernier cours, chaque étudiant récupère son propre projet initial ainsi que la restitution des tests menés par les autres sur ce projet, l'améliore à partir de ces retours, conçoit une landing page ou une fiche App Store, et termine par une restitution finale sous forme de pitch retraçant l'évolution du concept.
+
+Le cours s'appuie sur une veille de référence (Any Distance, Strava, Runkeeper, Apple Forme) et sur une trame de test standardisée (nom du designer, nom de l'utilisateur testé, objectif visé, niveau de réussite, notes libres, parcours d'écrans suivi, éléments de satisfaction et de frustration). La question de l'évaluation a été travaillée avec plusieurs hypothèses envisagées : une note moyenne de l'ensemble des projets sur lesquels l'étudiant est intervenu, ou un partage à 50/50 entre la note du projet initial de l'étudiant (démarré en séance 1, retrouvé en séance 5) et celle des projets tiers sur lesquels il est intervenu entre-temps.
+
+Le dispositif a ensuite été présenté sur LinkedIn par mes soins, sous une forme qui en explicite la thèse pédagogique : la scolarité, très structurée par semestres et par rendus individuels ou en groupes choisis, prépare mal les étudiants à la réalité du travail de designer, où l'on doit savoir itérer, gérer le changement, reprendre un projet en cours ou transmettre le sien à quelqu'un d'autre, sur un brief qui évolue en continu. Les étudiants ayant participé au cours sont Livia Benzo, Romain Dietlin, Léa Gawronski, Jules Streiff, Thaïs Rico, Bruno Tanguy, Inès Martin, Paul Barroux, Cindy Ney, Noé Rémon, Youri Stolper, Noa Barreau, Laurine Garreau, Marika Gibouin, Carla Zafimahova, Salomé Anchelergues, Tom Durand, Enguerrand Caffre, Romain Choblet et Paul Cochet.
+
+### Leçon pour le mémoire
+
+Iteration Games est l'exemple pédagogique le plus direct, dans mon propre parcours, d'une tentative de reproduire en formation ce que l'école, par nature, a du mal à enseigner : l'expérience du changement subi et non choisi. Le basculement du deuxième cours — annoncer aux étudiants qu'ils ne vont pas continuer leur propre projet, mais reprendre celui d'un·e camarade, sur un brief qui a lui-même évolué entre-temps — reproduit une situation typique du travail réel de designer (une reprise de dossier, un changement de cap stratégique, un projet transmis en cours de route), mais que le format scolaire classique, organisé autour de projets individuels menés du début à la fin par la même personne, ne permet presque jamais de vivre avant l'entrée dans la vie professionnelle.
+
+Ce cas prolonge directement les principes explorés en Partie 2 à propos des cycles courts et de l'héritage agile (2.1) : il en est une transposition pédagogique littérale, jusque dans le vocabulaire (sprint, brief évolutif, itération). Il dialogue aussi avec 3.1.3 (mon rôle de structurant) : le cadre est très structuré (5 séances, un protocole fixe, une trame de test standardisée), mais le contenu produit par les étudiants reste entièrement de leur ressort — je ne leur impose pas de solution, seulement un rythme et une contrainte à chaque étape. Le contraste observé entre le deuxième cours (passations hésitantes, regards perdus) et le troisième (fichiers mieux organisés, passations plus fluides, échanges plus clairs) est en soi un résultat pédagogique intéressant : la compétence à gérer la transmission et la reprise d'un projet s'apprend et se travaille, elle n'est pas acquise spontanément.
+
+### Résultat / impact
+
+Selon le retour d'expérience partagé publiquement à l'issue du cours, le niveau des projets après les cinq séances était significatif, sans doute plus solide que si chaque étudiant était resté seul sur son sujet de bout en bout — et surtout, les étudiants en ressortent avec une expérience concrète de ce qu'est réellement le quotidien d'un designer : devoir itérer, gérer le changement, reprendre le travail d'un autre ou transmettre le sien. La question de l'évaluation (moyenne des projets travaillés vs. pondération 50/50 entre projet initial et projets tiers) restait, au moment de la rédaction de cette fiche, encore à trancher pour les prochaines éditions du cours.
+
+**Source :** descriptif de cours Iteration Games (Martijn Verpaalen, cours donné par Martin Lebreton, idée insufflée par Robin Marzin) ; post LinkedIn de Martijn Verpaalen présentant le dispositif et ses résultats.
