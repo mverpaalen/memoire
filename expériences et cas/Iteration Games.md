@@ -2,6 +2,7 @@
 
 *Catégorie : Expériences & cas*
 
+**Plan:** [[2.1 Cycles courts - l'héritage de l'agile et du développement itératif|2.1 Cycles courts : l'héritage de l'agile et du développement itératif]], [[3.2.3 Mission commune des projets]]
 **Type de cas:** Dispositif pédagogique
 **Periode:** 5 séances de 4h, étudiants de 3ème année UX/UI Design (spécialité Interfaces) — module lié au prototypage mobile
 **Rôle(s):** Concepteur du cours (cours donné par Martin Lebreton)
@@ -23,7 +24,7 @@ Le dispositif a ensuite été présenté sur LinkedIn par mes soins, sous une fo
 
 Iteration Games est l'exemple pédagogique le plus direct, dans mon propre parcours, d'une tentative de reproduire en formation ce que l'école, par nature, a du mal à enseigner : l'expérience du changement subi et non choisi. Le basculement du deuxième cours — annoncer aux étudiants qu'ils ne vont pas continuer leur propre projet, mais reprendre celui d'un·e camarade, sur un brief qui a lui-même évolué entre-temps — reproduit une situation typique du travail réel de designer (une reprise de dossier, un changement de cap stratégique, un projet transmis en cours de route), mais que le format scolaire classique, organisé autour de projets individuels menés du début à la fin par la même personne, ne permet presque jamais de vivre avant l'entrée dans la vie professionnelle.
 
-Ce cas prolonge directement les principes explorés en Partie 2 à propos des cycles courts et de l'héritage agile (2.1) : il en est une transposition pédagogique littérale, jusque dans le vocabulaire (sprint, brief évolutif, itération). Il dialogue aussi avec 3.1.3 (mon rôle de structurant) : le cadre est très structuré (5 séances, un protocole fixe, une trame de test standardisée), mais le contenu produit par les étudiants reste entièrement de leur ressort — je ne leur impose pas de solution, seulement un rythme et une contrainte à chaque étape. Le contraste observé entre le deuxième cours (passations hésitantes, regards perdus) et le troisième (fichiers mieux organisés, passations plus fluides, échanges plus clairs) est en soi un résultat pédagogique intéressant : la compétence à gérer la transmission et la reprise d'un projet s'apprend et se travaille, elle n'est pas acquise spontanément.
+Ce cas prolonge directement les principes explorés en Partie 2 à propos des cycles courts et de l'héritage agile (2.1) : il en est une transposition pédagogique littérale, jusque dans le vocabulaire (sprint, brief évolutif, itération). Il dialogue surtout avec 3.2.3 (Mission commune des projets) : là où Rephone montre comment un projet peut vivre au-delà de sa remise pour s'inscrire dans une communauté plus large, Iteration Games force cette même logique dès la conception du cours, en obligeant chaque étudiant à faire vivre et à faire évoluer le projet d'un·e autre, et réciproquement — le projet cesse d'appartenir à une seule personne pour devenir un objet que la promotion se transmet et enrichit collectivement. Le contraste observé entre le deuxième cours (passations hésitantes, regards perdus) et le troisième (fichiers mieux organisés, passations plus fluides, échanges plus clairs) est en soi un résultat pédagogique intéressant : la compétence à gérer la transmission et la reprise d'un projet s'apprend et se travaille, elle n'est pas acquise spontanément.
 
 ### Résultat / impact
 
