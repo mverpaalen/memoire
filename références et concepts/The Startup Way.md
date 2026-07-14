@@ -2,6 +2,8 @@
 
 *Catégorie : Références & concepts*
 
+**Plan:** [[2.0 Le design de l'innovation - apprendre de la Silicon Valley|2.0 Introduction : Au-delà des slogans, une culture de l'apprentissage]], [[3.0 L'éducation du design numérique face à l'incertitude]]
+
 # Compte rendu de lecture
 
 ## Informations générales
@@ -10,6 +12,10 @@
 **Auteur :** Eric Ries
 **Première publication :** 2017
 **Genre :** Essai sur le management de l'innovation en grande organisation
+
+## Citation
+
+Ries y reprend et prolonge la définition qu'il avait posée dans *The Lean Startup* : une startup ne se définit ni par sa taille ni par son secteur, mais par la nature de la situation dans laquelle elle opère — une institution humaine conçue pour créer un nouveau produit ou service dans des « conditions of extreme uncertainty » (des conditions d'incertitude extrême). C'est cette définition, plus que tout autre passage du livre, qui compte pour ce mémoire : elle rejoint directement le constat d'ouverture de la Partie 2 sur la culture de l'innovation issue de la Silicon Valley, et surtout celui de la Partie 3.0, où j'avance que le monde dans lequel les designers sont aujourd'hui formés n'est plus seulement traversé par l'incertitude par moments, mais s'y trouve installé de façon permanente — une « extreme uncertainty » devenue la condition ordinaire, et non plus exceptionnelle, de toute organisation, y compris pédagogique.
 
 ## Résumé
 
@@ -39,4 +45,4 @@ Ce que je retiens surtout, c'est que la transformation ne se décrète pas : ell
 
 ## Conclusion
 
-*The Startup Way* prolonge et complexifie la pensée d'Eric Ries en la confrontant à l'échelle et à l'inertie des grandes organisations. Sa contribution pour ce mémoire est de montrer que les principes explorés en Partie 2 à travers mon propre parcours entrepreneurial et professionnel ne sont pas réservés aux jeunes structures : ils peuvent, à condition d'une gouvernance adaptée, infuser des organisations plus larges et plus anciennes — dont une école de design fait, à sa mesure, partie.
+*The Startup Way* prolonge et complexifie la pensée d'Eric Ries en la confrontant à l'échelle et à l'inertie des grandes organisations. Sa contribution pour ce mémoire est double. D'abord directe, en Partie 2 : elle montre que les principes explorés à travers mon propre parcours entrepreneurial et professionnel ne sont pas réservés aux jeunes structures, et peuvent, à condition d'une gouvernance adaptée, infuser des organisations plus larges et plus anciennes — dont une école de design fait, à sa mesure, partie. Ensuite plus fondamentale, en Partie 3.0 : la définition même de la startup comme institution conçue pour créer sous « conditions of extreme uncertainty » donne son cadre théorique à la thèse d'ouverture de la Partie 3 — si l'incertitude extrême n'est plus la condition exceptionnelle de quelques jeunes pousses mais devient la condition ordinaire de toute organisation, alors la question posée à l'éducation du design n'est plus seulement celle des méthodes à enseigner, mais celle d'une pédagogie elle-même conçue pour l'incertitude plutôt que pour la stabilité.
