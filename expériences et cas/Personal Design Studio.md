@@ -17,7 +17,7 @@ Décision, actée lors de la réunion fondatrice du [[Refonte cours UI design (a
 Ce parcours « studio » regroupe quatre modules qui se répondent :
 - **Design System Studio** : chaque étudiant crée son propre design system personnel (portfolio, CV, présentations).
 - **Portfolio Studio** : déploiement de ce design system sur Framer pour produire un site personnel.
-- **Career Studio** : CV, LinkedIn, positionnement professionnel.
+- **Career Studio** : 4 séances de 2h consacrées à préparer son CV et son profil LinkedIn, construire son réseau professionnel, et développer une méthode de recherche adaptée à son objectif — stage, mission freelance, alternance ou emploi.
 - **Manifesto Studio** : au-delà des cours strictement UI, ce module est intégré au **cours de lettres en A2** — les étudiants y rédigent un manifeste personnel sur leur raison d'être en tant que designer, hors du champ technique.
 
 L'enchaînement n'est pas arbitraire : chaque module s'appuie sur le précédent (le design system personnel devient la matière du portfolio, qui nourrit le positionnement de carrière), avec le Manifesto Studio comme socle de sens qui articule et justifie les choix formels faits dans les trois autres modules.

@@ -64,12 +64,20 @@ Vue chronologique du plan. Chaque section liste ses expériences & cas et réfé
 #### [[plan/3.2.3 Mission commune des projets|3.2.3 Mission commune des projets]]
 - Expériences : [[Rephone]]
 
-### [[plan/4.0 Programme Design du Numérique 2026-2030|4.0 Programme Design du Numérique 2026-2030]]
+### [[plan/4.0 Introduction - l'UX design et son éducation|4.0 Introduction - l'UX design et son éducation]]
 
-#### [[plan/4.3.1 Mission|4.3.1 Mission]]
+### [[plan/4.1 La vision - une éducation dans l'incertitude|4.1 La vision - une éducation dans l'incertitude]]
 
-#### [[plan/4.3.2 Vision|4.3.2 Vision]]
+### [[plan/4.2 La mission - former les designers de demain|4.2 La mission - former les designers de demain]]
 
-#### [[plan/4.3.3 Refonte du référentiel|4.3.3 Refonte du référentiel]]
+### [[plan/4.3 La maquette|4.3 La maquette]]
+
+#### [[plan/4.3.1 Pôle Culture générale|4.3.1 Pôle Culture générale]]
+
+#### [[plan/4.3.2 Pôle Technique|4.3.2 Pôle Technique]]
+- Expériences : [[Personal Design Studio]], [[Iteration Games]]
+
+#### [[plan/4.3.3 Pôle Enseignement pratique et pro|4.3.3 Pôle Enseignement pratique et pro]]
+- Expériences : [[Iteration Games]], [[Rephone]]
 
 ## [[plan/Syllabus|Syllabus]]
